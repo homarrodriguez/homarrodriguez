@@ -11,6 +11,7 @@ I am a graduate student in Electrical and Computer Engineering at Johns Hopkins 
 * Digital Systems
 * Communication Systems
 * Analog Electronics
+* Hardware Security
 * Engineering Education
 
 ## 🏫 Education
