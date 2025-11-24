@@ -20,13 +20,13 @@ I am a graduate student in Electrical and Computer Engineering at Johns Hopkins 
 
 ## 📚 Research Experience
 
-| Project                                                                                 | Research Lab                                                                |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Security Strategies for an Image Stitching Embedded Platform                            | <img width="100" src="images/RASP Logo.png" alt="RASP-Lab">                 |
-| Study of 4K Image Stitching Strategies for Efficient Embedded Implementation            | <img width="100" src="images/RASP Logo.png" alt="RASP-Lab">                 |
-| Raytheon Intelligence & Space Research: Project OWL – Red Cross Safe & Well Integration | <img width="120" src="images/CPSIOT-Logo.png" alt="IOT-Lab">                |
-| Team LiDron’s LiDAR Based Autonomous Landing System for UAVs                            | <img width="120" src="images/CPSIOT-Logo.png" alt="IOT-Lab">                |
-| Design of Autonomous Vehicles and Innovation in Transportation                          | <img width="100" src="images/IEEE UPRM Branch logo.jpg" alt="IEEE-Office">  |
+| Project                                                                                 | Research Lab                                                         |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Security Strategies for an Image Stitching Embedded Platform                            | <img width="100" src="RASP Logo.png" alt="RASP-Lab">                 |
+| Study of 4K Image Stitching Strategies for Efficient Embedded Implementation            | <img width="100" src="RASP Logo.png" alt="RASP-Lab">                 |
+| Raytheon Intelligence & Space Research: Project OWL – Red Cross Safe & Well Integration | <img width="100" src="CPSIOT-Logo.png" alt="IOT-Lab">                |
+| Team LiDron’s LiDAR Based Autonomous Landing System for UAVs                            | <img width="100" src="CPSIOT-Logo.png" alt="IOT-Lab">                |
+| Design of Autonomous Vehicles and Innovation in Transportation                          | <img width="100" src="IEEE UPRM Branch logo.png" alt="IEEE-Office">  |
 
 
 ## 📰 Professional Organizations
