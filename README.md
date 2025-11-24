@@ -7,6 +7,10 @@
 ## 🇵🇷 About Me
 I am a graduate student in Electrical and Computer Engineering at Johns Hopkins University. Currently, I work with the IEEE MOVE Puerto Rico Program on natural disaster emergency response.
 
+## 🏫 Education
+* M.Sci Electrical and Computer Engineer - Johns Hopkins University (INPROGRESS)
+* B.Sci. Computer Engineer - University of Puerto Rico - Mayagüez (2024)
+
 ## 🔨 Research Interest
 * Digital Systems
 * Communication Systems
@@ -14,9 +18,16 @@ I am a graduate student in Electrical and Computer Engineering at Johns Hopkins 
 * Hardware Security
 * Engineering Education
 
-## 🏫 Education
-* M.Sci Electrical and Computer Engineer - Johns Hopkins University (2025 - 2026)
-* B.Sci. Computer Engineer - University of Puerto Rico - Mayagüez (2024)
+## 📚 Research Experience
+
+| Project                                                                                 | Research Lab                                                                |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Security Strategies for an Image Stitching Embedded Platform                            | <img width="100" src="images/RASP Logo.png" alt="RASP-Lab">                 |
+| Study of 4K Image Stitching Strategies for Efficient Embedded Implementation            | <img width="100" src="images/RASP Logo.png" alt="RASP-Lab">                 |
+| Raytheon Intelligence & Space Research: Project OWL – Red Cross Safe & Well Integration | <img width="120" src="images/CPSIOT-Logo.png" alt="IOT-Lab">                |
+| Team LiDron’s LiDAR Based Autonomous Landing System for UAVs                            | <img width="120" src="images/CPSIOT-Logo.png" alt="IOT-Lab">                |
+| Design of Autonomous Vehicles and Innovation in Transportation                          | <img width="100" src="images/IEEE UPRM Branch logo.jpg" alt="IEEE-Office">  |
+
 
 ## 📰 Professional Organizations
 * IEEE MOVE Global - Puerto Rico
