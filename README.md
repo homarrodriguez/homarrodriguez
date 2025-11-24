@@ -1,4 +1,4 @@
-# ¡Hola! My name is Homar. The "H" is silent :)
+# ¡Wepa! My name is Homar. The "H" is silent :)
 <div id="badges">
   <a href="https://www.linkedin.com/in/homar-rodriguez-ramos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
