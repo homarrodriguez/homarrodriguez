@@ -22,11 +22,11 @@ I am a graduate student in Electrical and Computer Engineering at Johns Hopkins 
 
 | Project                                                                                 | Research Lab                                                         |Dates
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------|
-| Security Strategies for an Image Stitching Embedded Platform                            | <img width="60" src="RASP Logo.png" alt="RASP-Lab">                 | Jan 2024 - May 2024    |
-| Study of 4K Image Stitching Strategies for Efficient Embedded Implementation            | <img width="60" src="RASP Logo.png" alt="RASP-Lab">                 | Aug 2023 - May 2024    |
-| Raytheon Intelligence & Space Research: Project OWL – Red Cross Safe & Well Integration | <img width="60" src="CPSIOT-Logo.png" alt="IOT-Lab">                | Aug 2022 - May 2023    |
-| Team LiDron’s LiDAR Based Autonomous Landing System for UAVs                            | <img width="60" src="CPSIOT-Logo.png" alt="IOT-Lab">                | Oct 2020 - May 2022    |
-| Design of Autonomous Vehicles and Innovation in Transportation                          | <img width="60" src="IEEE UPRM Branch logo.png" alt="IEEE-Office">  | Sep 2019 - Dec 2019    |
+| Security Strategies for an Image Stitching Embedded Platform                            | <img width="100" src="RASP Logo.png" alt="RASP-Lab">                 | Jan 2024 - May 2024    |
+| Study of 4K Image Stitching Strategies for Efficient Embedded Implementation            | <img width="100" src="RASP Logo.png" alt="RASP-Lab">                 | Aug 2023 - May 2024    |
+| Raytheon Intelligence & Space Research: Project OWL – Red Cross Safe & Well Integration | <img width="100" src="CPSIOT-Logo.png" alt="IOT-Lab">                | Aug 2022 - May 2023    |
+| Team LiDron’s LiDAR Based Autonomous Landing System for UAVs                            | <img width="100" src="CPSIOT-Logo.png" alt="IOT-Lab">                | Oct 2020 - May 2022    |
+| Design of Autonomous Vehicles and Innovation in Transportation                          | <img width="100" src="IEEE UPRM Branch logo.png" alt="IEEE-Office">  | Sep 2019 - Dec 2019    |
 
 
 ## 📰 Professional Organizations
